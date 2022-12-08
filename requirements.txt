@@ -1,4 +1,4 @@
-cmake
+CMake
 https://files.pythonhosted.org/packages/1e/62/aacb236d21fbd08148b1d517d58a9d80ea31bdcd386d26f21f8b23b1eb28/dlib-19.18.0.tar.gz#sha256=8ca127253a0ca82a3d847148515f82ff2c504ed77a6385ec4f38c7f8e5360860
 absl-py==1.1.0
 altair==4.2.0
