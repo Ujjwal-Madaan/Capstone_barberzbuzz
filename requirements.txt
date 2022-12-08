@@ -17,14 +17,14 @@ cffi==1.15.0
 charset-normalizer==2.0.3
 click==7.1.2
 cloudbiolinux==0.1
-cmake==3.18.4.post1
+cmake
 commonmark==0.9.1
 contrib==0.3.0
 cryptography==37.0.2
 cycler==0.10.0
 decorator==5.1.1
 Django==3.2.5
-dlib==19.18.0
+dlib
 entrypoints==0.4
 executing==0.8.2
 fabric==2.7.0
