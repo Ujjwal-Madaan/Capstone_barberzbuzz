@@ -26,7 +26,6 @@ cryptography==37.0.2
 cycler==0.10.0
 decorator==5.1.1
 Django==3.2.5
-dlib==19.18.0
 entrypoints==0.4
 executing==0.8.2
 fabric==2.7.0
