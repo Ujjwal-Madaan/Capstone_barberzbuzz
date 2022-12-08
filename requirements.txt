@@ -1,5 +1,5 @@
 cmake
-https://files.pythonhosted.org/packages/19/e8/737eae439647f953aa1afe2f25ee88ff3399eb3c936e809f63e197e14036/dlib-19.1.0-cp35-cp35m-win_amd64.whl#sha256=a59fcc5e87ff01365e6d0711c5e3ae7676d12b8777c7a3c367e869dc9f921013
+https://files.pythonhosted.org/packages/f9/0f/74ba48d5136741feff3ceba90815034d34e10902cd16b44ae170226ff43e/dlib-19.23.1.tar.gz#sha256=aaeb7d1a5a22c2a00d8a99311630d8187b42b369bc378c8751e8b972f6cd4126
 absl-py==1.1.0
 altair==4.2.0
 appnope==0.1.2
